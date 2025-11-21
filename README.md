@@ -321,4 +321,4 @@ You now know everything to start using **Git & GitHub professionally**:
 
 
 
-## ⭐ Want me to generate a **PDF version**, **cover image**, or **Git cheat sheet poster** for this README?
+
