@@ -1,9 +1,4 @@
-Great — here is a **beautiful, visually rich, GitHub-friendly README.md** with **icons, emojis, banners, badges, and code blocks**.
-Everything is Markdown-compatible and works perfectly on GitHub.
 
-You can copy-paste this entire file as **README.md**.
-
----
 
 # 📘 Git & GitHub Beginner Guide
 
