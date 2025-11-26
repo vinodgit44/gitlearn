@@ -149,11 +149,12 @@ mkdir myproject
 cd myproject
 ```
 
-Customizing the Default: 
-For  ease of use with github :You can configure Git to use main (or any other name) as the default branch for new repositories you create locally.
-This is done using the init.defaultBranch configuration setting: Now default branch would me main which matches with github
+# Customizing Default: 
+For ease of use with github you can configure Git to use main (or any other name) as the default branch for new repositories you create locally.
+This is done using the init.defaultBranch configuration setting. Now default branch would be main which matches with github.
+
 ```bash
-    git config --global init.defaultBranch main
+git config --global init.defaultBranch main
 ```
 
 Initialize Git:
